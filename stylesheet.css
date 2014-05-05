@@ -4,15 +4,19 @@
 	height: 100px;
 	display: block;
 	margin: 0 auto;
-
-
-	top: 200px;
+    top: 180px;
 
 }
 
 #searchform{
-	
+	position: relative;
 	display : block;
-	width: 400px;
-    margin: auto;
+	width: 570px;
+	height: 25px;
+    margin: 0 auto;
+    top: 210px;
+    border-color: silver;
+    border-radius: 0;
+    
+
 }
